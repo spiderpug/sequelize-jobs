@@ -1,6 +1,6 @@
 {
   "name": "sequelize-jobs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Job queue for Sequelize",
   "author": {
     "name": "Robert Wachs",
@@ -41,6 +41,6 @@
   },
   "preferGlobal": false,
   "readmeFilename": "README.md",
-  "_id": "sequelize-jobs@0.0.1",
+  "_id": "sequelize-jobs@0.0.2",
   "_from": "sequelize-jobs@*"
 }
